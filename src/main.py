@@ -1,12 +1,9 @@
-#! python3
-# @Author: Jaedan Willis
-# @Company: Official Grasp Technology
-
 import sys
 import string
 import random
 import argparse
 import itertools
+
 try:
     import pyperclip
 except ImportError as e:
